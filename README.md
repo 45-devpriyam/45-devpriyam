@@ -2,66 +2,94 @@
   <img src="./bannerimage.png" alt="GitHub Banner" width="100%">
 </p>
 
-<br>
+<h1 align="center">Hi 👋 I'm Devpriyam Agarwal</h1>
 
-# Devpriyam Agarwal
+<h3 align="center">Full Stack Developer | React.js • Node.js • TypeScript • AI Integrations</h3>
 
-### Full Stack Developer
+<p align="center">
+I build scalable web applications, AI powered tools and backend systems with a focus on clean architecture and great user experience.
+</p>
 
-Building scalable web applications, AI integrations, and IoT solutions.
+---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a Full Stack Developer passionate about building scalable web applications and solving real-world problems through software.
+- 🚀 Full Stack Developer passionate about building modern web applications.
+- 🤖 Exploring AI Engineering, LLMs and intelligent automation.
+- ⚙️ Interested in scalable backend systems and REST APIs.
+- 📚 Solving Data Structures & Algorithms to strengthen problem solving.
+- 🎯 Actively looking to build impactful software and grow as a Software Engineer.
 
-I enjoy working across the entire development lifecycle, from creating responsive user interfaces to designing backend APIs and integrating AI-powered features.
+---
 
-Currently, I'm focused on strengthening my Data Structures & Algorithms skills while building production-quality Full Stack applications.
+## 🛠 Tech Stack
 
-## Tech Stack
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
 
-**Frontend**
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
-React.js • JavaScript • TypeScript • HTML5 • CSS3 • Tailwind CSS
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
-**Backend**
+### AI & Tools
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6E56CF?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
-Node.js • Express.js • REST APIs • JWT Authentication
+---
 
-**Databases**
-
-MongoDB • PostgreSQL • MySQL
-
-**AI**
-
-AI Integrations • OpenRouter • Hugging Face
-
-**Tools**
-
-Git • GitHub • Postman • Vercel • Render
-
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🤖 AI Productivity App
-A full-stack AI application with intelligent chat, text summarization, and AI-powered features using React, Node.js, Express.js, MongoDB, OpenRouter, and Hugging Face.
+AI powered productivity platform featuring chat, summarization and intelligent workflows.
 
 ### 📋 KanFlow
-A modern Kanban task management application with drag-and-drop workflow, responsive UI, and productivity-focused features.
+Modern Kanban application with drag and drop task management.
 
-### 🌦️ SkySense Weather App
-A responsive weather dashboard providing real-time weather updates, forecasts, and location-based weather insights.
+### ☁️ SkySense Weather App
+Real time weather dashboard with responsive UI and live API integration.
 
 ### ⚡ IoT Energy Monitoring System
-An ESP32-based IoT monitoring solution with real-time energy tracking, REST APIs, and interactive dashboards.
+ESP32 based smart energy monitoring system with real time analytics.
 
-## Currently Focused On
+---
 
-- Building scalable Full Stack applications
-- Strengthening Data Structures & Algorithms
-- Exploring AI Engineering and LLM integrations
-- Writing clean, maintainable, and production-quality code
+## 📈 GitHub Stats
 
-## Connect With Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=45-devpriyam&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
 
-- LinkedIn: https://www.linkedin.com/in/devpriyamagarwal/
-- Email: agarwaldevpriyam02@gmail.com
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=45-devpriyam&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=45-devpriyam&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/devpriyamagarwal
+- 📧 Email: agarwaldevpriyam02@gmail.com
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
