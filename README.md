@@ -37,13 +37,25 @@ Git • GitHub • Postman • Vercel • Render
 ## Featured Projects
 
 ### 🤖 AI Productivity App
-A Full Stack AI application with intelligent chat, text summarization and AI powered features using React, Node.js, Express.js, MongoDB, OpenRouter and Hugging Face.
+A full-stack AI application with intelligent chat, text summarization, and AI-powered features using React, Node.js, Express.js, MongoDB, OpenRouter, and Hugging Face.
 
 ### 📋 KanFlow
-A modern Kanban task management application with drag and drop workflow, responsive UI and productivity focused features.
+A modern Kanban task management application with drag-and-drop workflow, responsive UI, and productivity-focused features.
 
 ### 🌦️ SkySense Weather App
-A responsive weather dashboard providing real time weather updates, forecasts and location based weather insights.
+A responsive weather dashboard providing real-time weather updates, forecasts, and location-based weather insights.
 
 ### ⚡ IoT Energy Monitoring System
-An ESP32 based IoT monitoring solution with real time energy tracking, REST APIs and interactive dashboards.
+An ESP32-based IoT monitoring solution with real-time energy tracking, REST APIs, and interactive dashboards.
+
+## Currently Focused On
+
+- Building scalable Full Stack applications
+- Strengthening Data Structures & Algorithms
+- Exploring AI Engineering and LLM integrations
+- Writing clean, maintainable, and production-quality code
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/devpriyamagarwal/
+- Email: agarwaldevpriyam02@gmail.com
