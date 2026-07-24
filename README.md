@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./bannerimage.png" alt="GitHub Banner" width="100%">
+</p>
+
+<br>
+
 # Devpriyam Agarwal
 
 ### Full Stack Developer
